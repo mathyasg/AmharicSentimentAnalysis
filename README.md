@@ -15,6 +15,6 @@ Low-resource binary sentiment classification for Amharic tweets using data augme
 - Gradio demo
 
 ## How to run
-1. Open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mathyasg/amharic-sentiment-analysis/blob/main/amharic-sentiment-peft-initial.ipynb)
+1. Open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mathyasg/AmharicSentimentAnalysis/blob/main/amharic_sentiment_peft_initial.ipynb)
 2. Change runtime to T4 GPU
 3. Run all cells
